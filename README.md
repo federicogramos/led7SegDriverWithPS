@@ -8,4 +8,4 @@ PCB:
 ![alt text](https://raw.githubusercontent.com/federicogramos/led7SegDriverWithPS/refs/heads/main/otherFiles/pcb.jpg)
 
 Renderización cad:
-![alt text](https://raw.githubusercontent.com/federicogramos/led7SegDriverWithPS/refs/heads/main/otherFiles/img_cad.jpg)
+![alt text](https://raw.githubusercontent.com/federicogramos/led7SegDriverWithPS/refs/heads/main/otherFiles/cad.jpg)
