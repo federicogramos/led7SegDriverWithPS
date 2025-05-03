@@ -1,11 +1,12 @@
+<h1>About</h1>
 Pcb diseño altium de placa driver de hasta 5 displays multiplexados.
 Fuente de alimentacion switching offline incluida dentro de placa.
 
-Schematic:
+<h1>Schematic</h1>
 ![alt text](https://raw.githubusercontent.com/federicogramos/led7SegDriverWithPS/refs/heads/main/otherFiles/sch.jpg)
 
-PCB:
+<h1>PCB</h1>
 ![alt text](https://raw.githubusercontent.com/federicogramos/led7SegDriverWithPS/refs/heads/main/otherFiles/pcb.jpg)
 
-Renderización cad:
+<h1>Renderización cad</h1>
 ![alt text](https://raw.githubusercontent.com/federicogramos/led7SegDriverWithPS/refs/heads/main/otherFiles/cad.jpg)
