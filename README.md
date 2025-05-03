@@ -1,4 +1,4 @@
-About
+# About
 Pcb diseño altium de placa driver de hasta 5 displays multiplexados.
 Fuente de alimentacion switching offline incluida dentro de placa.
 
