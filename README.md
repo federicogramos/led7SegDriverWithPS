@@ -1,6 +1,7 @@
 # About
 Pcb diseño altium de placa driver de hasta 5 displays multiplexados.
 Fuente de alimentacion switching offline incluida dentro de placa.
+El firmware se encuentra en https://github.com/federicogramos/led7SegDriverWithPS
 
 # Schematic
 ![alt text](https://raw.githubusercontent.com/federicogramos/led7SegDriverWithPS/main/otherFiles/sch.jpg)
