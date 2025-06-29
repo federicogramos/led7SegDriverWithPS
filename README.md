@@ -9,4 +9,4 @@ Fuente de alimentacion switching offline incluida dentro de placa.
 ![alt text](https://raw.githubusercontent.com/federicogramos/led7SegDriverWithPS/main/otherFiles/pcb.jpg)
 
 # Renderización cad
-![alt text](https://raw.githubusercontent.com/federicogramos/led7SegDriverWithPS/main/otherFiles/cad.jpg)
+![alt text](https://raw.githubusercontent.com/federicogramos/led7SegDriverWithPS/main/otherFiles/cad_0.jpg)
